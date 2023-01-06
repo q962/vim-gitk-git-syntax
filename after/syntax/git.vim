@@ -23,5 +23,5 @@ hi! def link diffOldFile q962__diff_2_4
 hi Statement guifg=#A1C7FF
 " @@..@@ 之后的内容
 hi def link diffSubname NONE
-hi diffSubname guifg=#3977EB
+hi diffSubname guifg=#3977EB cterm=italic
 
